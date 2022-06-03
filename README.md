@@ -10,7 +10,7 @@
 
 :gem: - I hope that one day, I can have my degree and work in spectaculars proyects
 
-> [![visitors](https://visitor-badge.glitch.me/badge?Lucas16AR=Lucas16AR&left_color=green&right_color=red)]
+> [![visitors](https://visitor-badge.glitch.me/badge?page_id=Lucas16AR&left_color=blue&right_color=yellow&left_text=Hello%20Visitors)]
 
 > [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Lucas16AR?cardType=octocat&theme=tokyonight)](https://git.io/awesome-stats-card)
 
