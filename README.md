@@ -1,6 +1,6 @@
 # Helloooowwwww!!!!
 
-![python](http://pytalent.zandstrasystems.com/HelloW-3.gif)
+![python](https://giphy.com/explore/pythonic)
 
 ## My name is "Luquitas"
 
